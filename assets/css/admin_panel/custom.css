@@ -1,0 +1,125 @@
+.panel-heading >.accordion-toggle:hover {
+   
+   text-decoration: none;
+
+}
+
+
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body
+{
+	border: 1px solid #008040; 
+		
+}
+.wrapper
+{
+	height: 700px;
+	background-color: #fff;
+}
+.btn-fee .btn
+{
+	width: 40px;
+	margin-bottom: 1px;
+}
+.navbar-inverse .navbar-nav>li>a:hover
+{
+	background-color: #337ab7;
+}
+.navbar-inverse .side-nav >li>a:hover
+{
+	background-color: #337ab7 !important;
+}
+.navbar-inverse .side-nav .collapse >li>a:hover
+{
+	background-color: #337ab7 !important;
+}
+.navbar-inverse .side-nav .collapse >li>a:after
+{
+	background-color: #337ab7 !important;
+}
+
+.panel-blue
+{
+	background-color: #0099ff;
+	color: #fff;
+}
+.panel-blue i
+{
+	visibility: hidden;
+}
+.panel-blue-footer
+{
+	background-color: #008ae6;
+	border: #008ae6;
+	color: #fff;
+
+}
+.panel-blue a:hover
+{
+	text-decoration: none;
+}
+
+.panel-green
+{
+	background-color: #009933;
+	color: #fff;
+}
+.panel-green i
+{
+	visibility: hidden;
+}
+.panel-green-footer
+{
+	background-color: #00802b;
+	border: #00802b;
+	color: #fff;
+
+}
+.panel-green a:hover
+{
+	text-decoration: none;
+}
+.panel-red
+{
+	background-color: #ff0000;
+	color: #fff;
+}
+.panel-red i
+{
+	visibility: hidden;
+}
+.panel-red-footer
+{
+	background-color: #e60000;
+	border: #e60000;
+	color: #fff;
+
+}
+.panel-red a:hover
+{
+	text-decoration: none;
+}
+.panel-orange
+{
+	background-color: #ffcc00;
+	color: #fff;
+}
+.panel-orange i
+{
+	visibility: hidden;
+}
+.panel-orange-footer
+{
+	background-color: #e6b800;
+	border: #e6b800;
+	color: #fff;
+
+}
+.panel-orange a:hover
+{
+	text-decoration: none;
+}
+.them-panel
+{
+	background-color:#8fc8f9 !important;
+}
